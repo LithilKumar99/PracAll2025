@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server ./sc/DataTypes -o"
+    "start": "http-server ./src/DataTypes -o"
   },
   "keywords": [],
   "author": "",
